@@ -1,6 +1,9 @@
 	#+ BITTE NICHT MODIFIZIEREN: Vorgabeabschnitt
 	#+ ------------------------------------------
 
+
+#someone on fiver hired me for a code but didn't pay me for this and cancel order after getting code
+
 .data
 
 str_text: .asciiz "text: "
